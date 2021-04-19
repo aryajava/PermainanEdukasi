@@ -23,3 +23,7 @@
 >### Atau
 >>1. yarn start
 >>2. yarn run-android
+
+>## Disain Aplikasi
+>
+![PermainanEdukasi. Mari Belajar Bersama!](src/assets/images/Tampilan-Aplikasi-PermainanEdukasi.png  "PermainanEdukasi")
