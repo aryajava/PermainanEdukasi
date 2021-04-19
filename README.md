@@ -12,3 +12,12 @@ Daftar Kelompok:
 6.
 7.
 8.
+
+>### Untuk menjalankan aplikasi
+>
+>- npx react-native start
+>- npx react-native run-android
+> 
+> atau
+> - yarn start
+> - yarn run-android
