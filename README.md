@@ -2,8 +2,7 @@
 
 >Aplikasi ini dibuat untuk memenuhi tugas matakuliah **Mobile Programming** Kelompok AB.
 
-Daftar Kelompok: 
-
+Daftar Kelompok:
 1. Muhammad Arya Java (1811502754)
 2.
 3.
@@ -15,9 +14,9 @@ Daftar Kelompok:
 
 >### Untuk menjalankan aplikasi
 >
->- npx react-native start
->- npx react-native run-android
-> 
+>>1. npx react-native start
+>>2. npx react-native run-android
+>>
 > atau
-> - yarn start
-> - yarn run-android
+>>1. yarn start
+>>2. yarn run-android
