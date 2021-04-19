@@ -24,6 +24,6 @@
 >>1. yarn start
 >>2. yarn run-android
 
->## Disain Aplikasi
+>## Disain aplikasi
 >
 ![PermainanEdukasi. Mari Belajar Bersama!](src/assets/images/Tampilan-Aplikasi-PermainanEdukasi.png  "PermainanEdukasi")
