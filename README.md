@@ -14,7 +14,7 @@
 
 >## Untuk menjalankan aplikasi
 >
->### Buka project di vscode terus buka terminal yg ada di vscode, lalu install node_modules, ketik
+>### Buka project di vscode terus buka terminal yg ada di vscode, lalu install node_modules, dg ketik
 >>1. npm install
 >### Kemudian, ketik dibawah ini untuk menjalankan aplikasi
 >>1. npx react-native start
