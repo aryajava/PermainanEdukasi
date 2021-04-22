@@ -22,13 +22,11 @@
 > Kemudian, ketik dibawah ini untuk menjalankan aplikasi
 >
 > > `npx react-native start`
->
 > > `npx react-native run-android`
 >
 > Atau bisa menggunakan yarn, dengan ketik
 >
 > > `yarn start`
->
 > > `yarn android`
 >
 > ## Desain Aplikasi
