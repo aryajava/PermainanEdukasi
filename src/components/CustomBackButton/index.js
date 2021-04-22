@@ -1,6 +1,6 @@
 import {useNavigation} from '@react-navigation/core';
 import React from 'react';
-import {Button, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {StyleSheet, TouchableOpacity, View} from 'react-native';
 import {IcoABC, IcoArrowBack} from '../../assets';
 
 const CustomBackButton = () => {
@@ -34,6 +34,6 @@ const styles = StyleSheet.create({
   },
   buttonBeranda: {
     paddingTop: 6,
-    paddingLeft: 40,
+    paddingLeft: 50,
   },
 });

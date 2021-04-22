@@ -546,7 +546,7 @@ const Alphabet = () => {
 
 export default Alphabet;
 
-const win = Dimensions.get('window');
+const win = Dimensions.get('screen');
 const styles = StyleSheet.create({
   background: {
     width: win.width,

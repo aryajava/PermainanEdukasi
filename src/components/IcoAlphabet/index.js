@@ -128,8 +128,8 @@ export default IcoAlphabet;
 
 const styles = StyleSheet.create({
   pilihhan: {
-    width: 75,
-    height: 75,
+    width: 80,
+    height: 80,
     backgroundColor: WARNA_UNGGU,
     borderRadius: 13,
     elevation: 6,

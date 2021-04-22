@@ -1,35 +1,34 @@
 # PermainanEdukasi
 
-> Aplikasi ini dibuat untuk memenuhi tugas matakuliah _Mobile Programming_ Kelompok AB.
-
+> Aplikasi ini dibuat untuk memenuhi tugas kuliah dengan matakuliah
+>> **_Mobile Programming_** - Kelompok AB.
+>
 > ## Daftar Kelompok
 >
 > > 1. Muhammad Arya Java (1811502754)
-> >
-> > 2.
-> > 3.
-> > 4.
-> > 5.
-> > 6.
-> > 7.
-> > 8.
-
-> ## Untuk menjalankan aplikasi
+> > 2. Arif Gunawan (1812501607)
+> > 3. Naufal Iftikar (1812500385)
+> > 4. Riffa khalaf (1812501532)
+> > 5. Aji Cahyo (1812500096)
+> > 6. Tsania Junaida (1812500070)
+> > 7. Bram Yudha Prakoso (1711501013)
 >
-> Buka project di vscode, kemudian buka terminal yg ada di vscode. Install node_modules, dg ketik
-
+> ## Untuk Menjalankan Aplikasi
+>
+> Buka project di vscode, kemudian buka terminal di vscode. Install node_modules, dengan ketik
+>
 > > `npm install`
-
+>
 > Kemudian, ketik dibawah ini untuk menjalankan aplikasi
 >
-> > 1. `npx react-native start`
-> > 2. `npx react-native run-android`
+> > `npx react-native start`
+> > `npx react-native run-android`
 >
-> Atau bisa menggunakan yarn, dg ketik
+> Atau bisa menggunakan yarn, dengan ketik
 >
-> > 1. `yarn start`
-> > 2. `yarn run-android`
-
-> ## Disain aplikasi
+> > `yarn start`
+> > `yarn android`
 >
-> ![PermainanEdukasi. Mari Belajar Bersama!](src/assets/images/Tampilan-Aplikasi-PermainanEdukasi.png 'PermainanEdukasi')
+> ## Desain Aplikasi
+>
+> ![PermainanEdukasi. Mari Belajar Bersama!](src/assets/images/Tampilan-Aplikasi-PermainanEdukasi-v2.1.png 'PermainanEdukasi')

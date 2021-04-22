@@ -33,7 +33,7 @@ const Beranda = ({navigation}) => {
 
 export default Beranda;
 
-const win = Dimensions.get('window');
+const win = Dimensions.get('screen');
 
 const styles = StyleSheet.create({
   background: {

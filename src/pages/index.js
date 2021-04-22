@@ -1,6 +1,6 @@
 import Beranda from './Beranda';
-import Pengaturan from './Pengaturan';
+import TentangKami from './TentangKami';
 import Splash from './Splash';
 import Alphabet from './Permainan/Aplhabet';
 
-export {Beranda, Pengaturan, Splash, Alphabet};
+export {Beranda, TentangKami, Splash, Alphabet};

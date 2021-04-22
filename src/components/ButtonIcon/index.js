@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
     alignItems: 'center',
     borderRadius: 10,
-    elevation: 2,
+    elevation: 5,
   },
   textContainer: {
     marginHorizontal: 50,
