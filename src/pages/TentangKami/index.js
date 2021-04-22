@@ -40,7 +40,7 @@ const TentangKami = () => {
             <Text style={styles.textBio}>(1812500385)</Text>
           </View>
           <View style={styles.team}>
-            <Text style={styles.textBio}>Riffa khalaf</Text>
+            <Text style={styles.textBio}>Riffa Khalaf</Text>
             <Text style={styles.textBio}>(1812501532)</Text>
           </View>
           <View style={styles.team}>

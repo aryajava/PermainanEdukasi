@@ -8,7 +8,7 @@
 > > 1. Muhammad Arya Java (1811502754)
 > > 2. Arif Gunawan (1812501607)
 > > 3. Naufal Iftikar (1812500385)
-> > 4. Riffa khalaf (1812501532)
+> > 4. Riffa Khalaf (1812501532)
 > > 5. Aji Cahyo (1812500096)
 > > 6. Tsania Junaida (1812500070)
 > > 7. Bram Yudha Prakoso (1711501013)
@@ -22,11 +22,13 @@
 > Kemudian, ketik dibawah ini untuk menjalankan aplikasi
 >
 > > `npx react-native start`
+>
 > > `npx react-native run-android`
 >
 > Atau bisa menggunakan yarn, dengan ketik
 >
 > > `yarn start`
+>
 > > `yarn android`
 >
 > ## Desain Aplikasi
