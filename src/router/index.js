@@ -31,7 +31,7 @@ const MainApp = () => {
 
 const Root = () => {
   return (
-    <Stack.Navigator initialRouteName="Splash" headerMode="none">
+    <Stack.Navigator initialRouteName="Splash" headerShown="none">
       <Stack.Screen name="Splash" component={Splash} />
       <Stack.Screen name="MainApp" component={MainApp} />
     </Stack.Navigator>
